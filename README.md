@@ -1,6 +1,6 @@
 # CDISC-CORE-Rule-Browser
 
-日本語ページはこちら（現在準備中のため、リンク先は無効です） [README-ja.md](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Brower/blob/main/README-ja.md).
+日本語ページはこちら（現在準備中のため、リンク先は無効です） [README-ja.md](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/blob/main/README-ja.md).
 
 ## Overview
 CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine). This tool enables users to validate their deliverables based on CDISC standards. In this tool, many rules are executed, but the details of each rules are not shown in general users. This tool lists all rules for specific standard and specific version. User can see the details of each rules to see the inside of validation rules.
