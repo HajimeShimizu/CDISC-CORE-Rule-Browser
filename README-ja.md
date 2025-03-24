@@ -3,9 +3,9 @@
 English Page is here [README.md](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Brower/blob/main/README.md).
 
 ## 概要
-CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発しています。 This tool enables users to validate their deliverables based on CDISC standards. In this tool, many rules are executed, but the details of each rules are not shown in general users. This tool lists all rules for specific standard and specific version. User can see the details of each rules to see the inside of validation rules.
+CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発しています。このツールで、CDISC標準を利用した成果物の妥当性をチェックできます。COREではたくさんのルールが実行されますが、ルールの詳細を簡単に確認することができません。CDISC CORE Rule Browserは、関心のあるチェックルールが、CORE内でどのように実装されているかを確認するツールです。
 
-## Download
+## ダウンロード
 Under construction. You'll see
 [Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/releases)\
 <img width="200" alt="GUI image" src="files.png">
@@ -15,8 +15,8 @@ Under construction. You'll see
 2. Files are auto-merged by kicking exe file.
 3. Unzip file.
 
-## How to setup
-Coming soon.
+## セットアップ方法
+このツールはCOREのキャッシュフォルダにあるルール一覧ファイルの内部を表示するものです。
 
 ## How to Use
 Double click '????.exe'. Wait for a while, as it may take some time to boot
