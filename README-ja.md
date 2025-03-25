@@ -21,11 +21,12 @@ Under construction. You'll see
 ## 使い方
 ツールの実行ファイルをダブルクリックすることで起動します。\
 \
-<img width="500" alt="image" src="core_rule_browser.png">\
+<img width="500" alt="image" src="core_rule_browser.png">
 
 ### パラメータの指定
 - 標準：COREのルールを確認したい標準を選びます
-- バージョン：確認したい標準のバージョンを選びます\
+- バージョン：確認したい標準のバージョンを選びます
+
 上記を指定後、「表示」ボタンを押してください
 
 ### ルールの検索
