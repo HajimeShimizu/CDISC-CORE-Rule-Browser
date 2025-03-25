@@ -38,5 +38,5 @@ Under construction. You'll see
 ### ルールの詳細
 初期状態では、ルールのID・チェックの概要・エラーメッセージのみが表示されています。さらに詳しい情報を知りたい場合、ルールをダブルクリックします。
 
-<img width="250" alt="image" src="core_rule_browser_detail.png"?
+<img width="250" alt="image" src="core_rule_browser_detail.png">
 
