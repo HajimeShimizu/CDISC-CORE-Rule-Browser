@@ -20,6 +20,8 @@ Under construction. You'll see
 
 ## How to Use
 Double click '????.exe'. Wait for a while, as it may take some time to boot
+<img width="300" alt="image" src="core_rule_browser.png">
+
 
 
 
