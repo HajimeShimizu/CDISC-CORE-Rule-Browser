@@ -22,7 +22,7 @@ Under construction. You'll see
 ツールの実行ファイルをダブルクリックすることで起動します。\
 \
 <img width="500" alt="image" src="core_rule_browser.png">\
-\
+
 ### パラメータの指定
 - 標準：COREのルールを確認したい標準を選びます
 - バージョン：確認したい標準のバージョンを選びます
