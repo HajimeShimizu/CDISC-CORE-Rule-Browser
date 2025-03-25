@@ -16,7 +16,7 @@ Under construction. You'll see
 3. Unzip file.
 
 ## セットアップ方法
-このツールはCOREのキャッシュフォルダにあるルール一覧ファイルの内部を表示するものです。
+このツールはCOREのキャッシュフォルダにあるルール一覧ファイルの内部を表示するものです。/resources/cacheフォルダ内にルール一覧のファイルが必要となります。
 
 ## How to Use
 Double click '????.exe'. Wait for a while, as it may take some time to boot\
