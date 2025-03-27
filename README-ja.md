@@ -6,7 +6,7 @@ English Page is here [README.md](https://github.com/HajimeShimizu/CDISC-CORE-Rul
 CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発しています。このツールで、CDISC標準を利用した成果物の妥当性をチェックできます。COREではたくさんのルールが実行されますが、ルールの詳細を簡単に確認することができません。CDISC CORE Rule Browserは、関心のあるチェックルールがCORE内でどのように実装されているかを確認するツールです。
 
 ## ダウンロード
-Under construction. You'll see
+ただいま準備中です
 [Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/releases)\
 <img width="200" alt="GUI image" src="files.png">
 
