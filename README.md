@@ -28,10 +28,10 @@ Press "display" button after specifying all parameters.
 Rules are listed at random order (Note: No meaningfull order of conformance rules). Practically, users will filter rules in interest by themselve. Type key words in search box. By hitting enter key, filtering is executed. By specifying empty as key words, all rules shows up (equal to result of standard/version selection).
 
 Hints for filtering
-- Domain name may not work as you expect (please notify "ALL"). Any other chodies are recommended.
+- Domain name may not work as you expect (please notify "ALL"). Any other chocies are recommended.
 
-### ルールの詳細
-初期状態では、ルールのID・ドメイン情報・チェックの概要・エラーメッセージのみが表示されています。さらに詳しい情報を知りたい場合、任意のルールをダブルクリックします（ロジック部分の解読は難しいため、別途解説を用意する予定です）。
+### Look into the details of rule
+Rule ID, class, domain, overall description and error meesage are listed. By double clicking rule, details are shown in pop up window.
 
 <img width="350" alt="image" src="core_rule_browser_detail.png">
 
