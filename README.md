@@ -18,17 +18,17 @@ Tool is booted by double clicking .exe file\
 \
 <img width="600" alt="image" src="core_rule_browser.png">
 
-### パラメータの指定
-- 標準：COREのルールを確認したい標準を選びます
-- バージョン：確認したい標準のバージョンを選びます
+### Paramters
+- Standard：Select standard
+- Version：Select version
 
-上記を指定後、「表示」ボタンを押してください
+Press "display" button after specifying all parameters.
 
-### ルールの検索
-ルールはランダムな順番で表示されます（※意味のある順番にソートすることができません）。実際的には、リストされた一覧から関心のあるルールを検索することになります。検索ボックスにキーワードを入れ、リターンキーを押すことで、データが絞り込まれます。キーワードが空の状態でリターンキーを押すと、元の状態（最初の検索結果）に戻ります。
+### Filter
+Rules are listed at random order (Note: No meaningfull order of conformance rules). Practically, users will filter rules in interest by themselve. Type key words in search box. By hitting enter key, filtering is executed. By specifying empty as key words, all rules shows up (equal to result of standard/version selection).
 
-検索のヒント
-- ドメイン名の指定は非現実的です。変数名など、別の条件を指定しましょう
+Hints for filtering
+- Domain name may not work as you expect (please notify "ALL"). Any other chodies are recommended.
 
 ### ルールの詳細
 初期状態では、ルールのID・ドメイン情報・チェックの概要・エラーメッセージのみが表示されています。さらに詳しい情報を知りたい場合、任意のルールをダブルクリックします（ロジック部分の解読は難しいため、別途解説を用意する予定です）。
