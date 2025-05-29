@@ -3,14 +3,16 @@
 English Page is here [README.md](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/blob/main/README.md).
 
 ## 概要
-CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発しています。このツールで、CDISC標準を利用した成果物の妥当性をチェックできます。COREではたくさんのルールが実行されますが、ルールの詳細を簡単に確認することができません。CDISC CORE Rule Browserは、関心のあるチェックルールがCORE内でどのように実装されているかを確認するツールです。
+CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発しています。このツールで、CDISC標準を利用した成果物の妥当性をチェックできます。COREではたくさんのルールが実行されますが、ルールの詳細を簡単に確認することができません。CDISC CORE Rule Browserは、関心のあるチェックルールがCORE内でどのように実装されているかを確認するツールです。具体的には、COREのキャッシュフォルダにあるルール一覧ファイルの内部を表示します。
 
 ## ダウンロード
 リリースページ（[こちら](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/releases)）よりダウンロードできます。本ファイル以外にCOREのキャッシュファイルを適切なフォルダに格納する必要があります。
 
 ## セットアップ方法
-- このツールはCOREのキャッシュフォルダにあるルール一覧ファイルの内部を表示するものです
-- /resources/cacheフォルダ内にルール一覧のファイルが必要となります
+- ダウンロードした圧縮ファイルを展開します
+- 別途、COREをダウンロードしたフォルダに、展開したファイル・フォルダを保存します
+-- 本ツールは /resources/cacheフォルダ内にルール一覧のファイルが必要となります
+-- 一般的に
 - こちらの[ページ](https://note.com/cdisc/n/n2e23f6e1dad1)でも紹介していますので、必要に応じて確認してください。
 
 ## 使い方
