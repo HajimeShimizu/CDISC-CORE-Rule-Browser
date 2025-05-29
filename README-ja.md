@@ -19,8 +19,8 @@ CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rule
 ツールの実行ファイルをダブルクリックすることで起動します。
 最初に言語を選択してください。\
 \
-<img alt="image" src="core_rule_browser_lang.png">
-\
+<img width="300" alt="image" src="core_rule_browser_lang.png">\
+
 その後、ツールが起動します。
 <img width="600" alt="image" src="core_rule_browser.png">
 
