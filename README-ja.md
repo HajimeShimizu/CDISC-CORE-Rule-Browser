@@ -9,11 +9,11 @@ CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rule
 リリースページ（[こちら](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/releases)）よりダウンロードできます。本ファイル以外にCOREのキャッシュファイルを適切なフォルダに格納する必要があります。
 
 ## セットアップ方法
-- ダウンロードした圧縮ファイルを展開します
-- 別途、COREをダウンロードしたフォルダに、展開したファイル・フォルダを保存します
--- 本ツールは /resources/cacheフォルダ内にルール一覧のファイルが必要となります
--- 一般的に
-- こちらの[ページ](https://note.com/cdisc/n/n2e23f6e1dad1)でも紹介していますので、必要に応じて確認してください。
+1. ダウンロードした圧縮ファイルを展開します
+2. 別途、COREをダウンロードしたフォルダに、展開したファイル・フォルダを保存します
+  - 本ツールは /resources/cacheフォルダ内にルール一覧のファイルが必要となります
+  - 一般的には、COREのトップレベルにツールをおくことになります
+  - こちらの[ページ](https://note.com/cdisc/n/n2e23f6e1dad1)でも紹介していますので、必要に応じて確認してください
 
 ## 使い方
 ツールの実行ファイルをダブルクリックすることで起動します。\
