@@ -6,14 +6,11 @@
 CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine). This tool enables users to validate their deliverables based on CDISC standards. In CORE, many rules are executed, but the details of each rules are not open to general users. This tool lists all rules for specific standard and specific version and allows users to drill down details of each rule. This tool refers cache files of CORE.
 
 ## Download
-Visit release page（[Here](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/releases)）. In addition to this tool, rule cache file created by CORE is required.
+This tool is provided with CDISC CORE GUI. Visit release page（[Here](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser/releases)）. 
 
 ## How to set up
 1. Download package and extract all components.
-2. Place all files/folders to CORE package (you need to download CORE).
-- Cache file should be located at folder "/resources/cache"
-- In general, you would place downloaded files at the top level folder of CORE.
-- More guide is found in this [page](https://note.com/cdisc/n/n2e23f6e1dad1).
+2. rule_browser.exe is the tool.
 
 ## How to use
 Tool is booted by double clicking .exe file. Choose language and Press OK.
